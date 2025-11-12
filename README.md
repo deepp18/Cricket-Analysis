@@ -61,7 +61,7 @@ These statistical measures were used to evaluate and select the **Best XI player
 1. Download / clone the repository.
 2. Open `DAX Measures.pbix` in Power BI Desktop.
 3. Ensure the CSV files are in the same folder path.
-4. Explore the dashboard — select players to compare performance visually.
+4. Make your own dashboard — select players to compare performance visually.
 
 ---
 
